@@ -133,7 +133,7 @@ For transparency, here's what we declare in the Google Play Store:
 If you have any questions or concerns about this Privacy Policy or how Votery handles information, please contact us:
 
 **Email:** [Your contact email - to be added]  
-**GitHub:** https://github.com/Meduty/lottery-of-choice
+**GitHub:** https://github.com/medukn/lottery-of-choice
 
 ## Legal Compliance
 
